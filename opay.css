@@ -304,5 +304,7 @@ body{
     color: #ffffff;
 }
 .vid{
-    width: 500px;
+    display: flex;
+    
+    width: 200px;
 }
